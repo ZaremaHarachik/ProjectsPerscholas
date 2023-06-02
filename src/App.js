@@ -4,7 +4,7 @@ import { useState } from 'react';
 export default function Form() {
     const [form, setForm] = useState({
         firstName: 'Barbara',
-        lastName: 'Hepworth',
+        lastName: 'Johns',
         email: 'bhepworth@sculpture.com',
     });
 
